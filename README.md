@@ -19,7 +19,9 @@
 - Testing web servers by sending a bunch or requests to a certain `ip` and `port` and flooding it.
 ### How to use it:
 - Start by cloning the following git repository:
-```https://github.com/Trixz-the/LightDDOS.git```
+```
+https://github.com/Trixz-the/LightDDOS.git
+```
 
 - Then run the `main.py`	 file
 
